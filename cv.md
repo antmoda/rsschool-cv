@@ -2,7 +2,7 @@
 
 # My Contact Info
 
-- E-mail: antmoda8@gmail.com
+- E-mail: [antmoda8@gmail.com](mailto:antmoda8@gmail.com)
 - GitHub: [antmoda](https://github.com/antmoda)
 - CodePen: [antmoda](https://codepen.io/antmoda)
 - CodeWars: [antmoda](https://www.codewars.com/users/antmoda)
